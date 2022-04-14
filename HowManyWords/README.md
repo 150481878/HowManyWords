@@ -1,3 +1,4 @@
+### This is a demo. Just for testing.
 # 主要功能
 * 统计文章的总字数
 * 显示文章所有单词
